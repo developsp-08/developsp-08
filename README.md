@@ -25,7 +25,7 @@ our goal is to build clean, scalable, and reliable solutions 💻🚀
 ---
 
 ## 📩 Get in Touch
-- 🌐 Portfolio: [Blackpuppystudio](https://facebook.com/blackpuppydev)  
+- 🌐 Portfolio: [BlackpuppyDev](https://facebook.com/blackpuppydev)  
 - 📧 Email: develop.sp08@gmai.com 
 - 💬 Open to projects big or small — let’s build something great together!  
 
