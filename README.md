@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🐶 Blackpuppydev
 
-<!--
-**developsp-08/developsp-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 Welcome to **Blackpuppydev**  
+We provide freelance software development services ✨  
+From **Frontend** to **Backend**, and beyond —  
+our goal is to build clean, scalable, and reliable solutions 💻🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What We Do
+- 🎨 **Frontend Development** → React, Flutter, Vue, Tailwind  
+- ⚙️ **Backend Development** → Node.js, Express, NestJS  
+- 🗄️ **Databases** → PostgreSQL, MongoDB, MySQL  
+- ☁️ **Cloud & DevOps** → Docker, CI/CD, Cloud Hosting  
+- 📊 **Data Solutions** → Data management systems, dashboards, analytics  
+
+---
+
+## 🚀 Why Work With Us
+- ✔️ Attention to detail and quality  
+- ✔️ On-time delivery  
+- ✔️ Tailor-made solutions to fit your needs  
+- ✔️ Friendly consulting and tech guidance  
+
+---
+
+## 📩 Get in Touch
+- 🌐 Portfolio: [Blackpuppystudio](https://facebook.com/blackpuppydev)  
+- 📧 Email: develop.sp08@gmai.com 
+- 💬 Open to projects big or small — let’s build something great together!  
+
+---
+
+✨ Thank you for stopping by!  
+**Blackpuppydev – We Build, You Grow.** 🐾
+
